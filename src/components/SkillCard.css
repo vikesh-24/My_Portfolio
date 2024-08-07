@@ -1,0 +1,18 @@
+.social_btn2{
+    max-width: 250px;
+    min-height: 200px;
+    padding: 10px 10px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    transition: all .3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    text-align: center;
+    background: linear-gradient(to right,rgb(137, 104, 255),rgb(175, 152, 255));
+    color: #fff;
+    border: none;
+    .social_btn2 {
+      margin-top: 20px; /* Add spacing between sections */
+  }
+  
+  }
