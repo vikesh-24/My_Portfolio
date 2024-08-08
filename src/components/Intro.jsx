@@ -15,8 +15,8 @@ export default function Intro() {
         <div>
             <h1 className='intro_h1'>Hello!</h1>
             <h1>I'm Vikesh Ramesh</h1>
-            <h3 >An Information Technology undergraduate with a passion for <u><b>coding and DevOps .</b></u></h3>
-            <center><p className='intro_c'>As an <b>Information Technology</b> student,I am eager to embark on a career in DevOps. I am seeking an internship or entry-level position in a software company where I can leverage my academic knowledge, gain practical experience, and contribute to innovative projects.
+            <h3  >An Information Technology undergraduate with a passion for <u><b>Data Science & Programming .</b></u></h3>
+            <center><p className='intro_c'>As an <b>Information Technology student</b> ,I am eager to embark on a career in data science and development. I am seeking an internship or entry-level position in a software company where I can leverage my academic knowledge, gain practical experience, and contribute to innovative data-driven projects.
             </p></center>
             <center>
                 <button class="Documents-btn" onClick={()=>{

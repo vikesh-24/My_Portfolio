@@ -9,6 +9,10 @@ export default function SkillCard() {
             <h2 className='social_btn3'>Programming Languages</h2>
             <p>Python, Java, C++, JavaScript, SQL, PHP, C</p>
         </div>
+        <div className="social_btn2" data-aos="zoom-in">
+            <h2>Data Science & Machine Learning</h2>
+            <p> Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision</p>
+        </div>
 
         <div className="social_btn2" data-aos="zoom-in">
             <h2>Web Technologies</h2>
@@ -34,10 +38,7 @@ export default function SkillCard() {
             <h2>Skills</h2>
             <p>Project Management, Teamwork, Time Management, Leadership, Effective Communication, Critical Thinking</p>
         </div>
-        <div className="social_btn2" data-aos="zoom-in">
-            <h2>Additional Areas</h2>
-            <p>Machine Learning, Deep Learning, Computer Vision, NLP</p>
-        </div>
+        
     </div>
   )
 }

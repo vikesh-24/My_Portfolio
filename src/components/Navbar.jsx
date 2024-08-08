@@ -29,11 +29,11 @@ export default function Navbar() {
         {
             label: 'Contact',
             icon: 'pi pi-envelope',
-            url: 'https://www.linkedin.com/in/vikesh-ramesh-7bb901288/'
+            url: '#bottom'
         }
     ];
 
-    const logo = <h3 height="40" className="mr-2">My-Portfolio</h3>;
+    const logo = <h3 height="40" className="mr-2">Vikesh's Portfolio</h3>;
 
   return (
     <div className="card">
