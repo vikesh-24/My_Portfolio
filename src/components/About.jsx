@@ -25,12 +25,7 @@ export default function About() {
                 <button class="social_btn" onClick={()=>window.open("https://www.linkedin.com/in/vikesh-ramesh-7bb901288/","_blank")}>
                     <i className='pi pi-linkedin'></i>
                 </button>
-                {/* <button class="social_btn" onClick={()=>window.open("https://www.instagram.com/_.kolaru.__/","_blank")}>
-                    <i className='pi pi-instagram'></i>
-                </button>
-                <button class="social_btn" onClick={()=>window.open("https://www.facebook.com/profile.php?id=100037768420533","_blank")}>
-                    <i className='pi pi-facebook'></i>
-                </button> */}
+                
                 <button class="social_btn" onClick={()=>window.open("https://github.com/vikesh-24","_blank")}>
                     <i className='pi pi-github'></i> Git Repositories
                 </button>
